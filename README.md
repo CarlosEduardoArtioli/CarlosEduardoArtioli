@@ -10,6 +10,7 @@ Sou um FullStack Developer :computer:
  :books:  &nbsp; Estou estudando na **Etec - Cidade do livro**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando Ionic/Angular e Typescript/Javascript
  <br/> :blush: &nbsp; Posso te ajudar com Ionic, Angular, Typescript/Javascript, Firebase e Arduino/ESP
+ <br/> :books: &nbsp; Atualmente estudando: Python🐍
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia em geral e games!
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CarlosEduardoArtioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-artioli/)](https://www.linkedin.com/in/carlos-eduardo-artioli/) 
 | 

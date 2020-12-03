@@ -1,4 +1,4 @@
-<img width="auto" src="https://linkedinbackground.com/download/Coding-Website-Layout.jpg">
+<img width="auto" src="keyboard.jpg">
 
 
 # Carlos Eduardo Artioli

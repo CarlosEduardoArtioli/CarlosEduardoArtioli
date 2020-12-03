@@ -5,14 +5,14 @@
 
 ## Olá pessoal 👋
 :computer: &nbsp; Sou apaixonado por informática e aprender novas coisas.
-:man_technologist: &nbsp; **Técnico em Informática**
+<br/>:man_technologist: &nbsp; **Técnico em Informática**
 
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando Angular/Ionic e Java/Spring
+:heart: &nbsp; Buscando colaborar com projetos usando Angular/Ionic e Java/Spring
 <br/> :blush: &nbsp; Posso te ajudar com Ionic, Angular, Typescript/Javascript, Java/Spring, Firebase e Arduino/ESP
 <br/> :books: &nbsp; Atualmente estudando: Python:snake:
 
 <p>
-  <br/> :email: &nbsp; Entre em contato comigo:
+  :email: &nbsp; Entre em contato comigo:
   <a href="mailto:caduartioli@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 

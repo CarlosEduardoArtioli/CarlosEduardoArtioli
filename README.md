@@ -12,6 +12,15 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com Ionic, Angular, Typescript/Javascript, Firebase e Arduino/ESP
  <br/> :books: &nbsp; Atualmente estudando: Python🐍
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologia em geral e games!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CarlosEduardoArtioli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-artioli/)](https://www.linkedin.com/in/carlos-eduardo-artioli/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-caduartioli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caduartioli@gmail.com)](mailto:caduartioli@gmail.com)
+
+<p align="left">
+  :email: &nbsp; Entre em contato comigo:
+</p>
+
+<p align="left">
+  <a href="mailto:caduartioli@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
+
+  <a href="https://www.linkedin.com/in/carlos-eduardo-artioli/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+</p>

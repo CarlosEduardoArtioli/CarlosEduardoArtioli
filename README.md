@@ -5,11 +5,11 @@
 
 ## Olá pessoal 👋
 :computer: &nbsp; Sou apaixonado por informática e aprender novas coisas.
- <br/>:man_technologist: &nbsp; **Técnico em Informática**
+:man_technologist: &nbsp; **Técnico em Informática**
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando Angular/Ionic e Java/Spring
- <br/> :blush: &nbsp; Posso te ajudar com Ionic, Angular, Typescript/Javascript, Java/Spring, Firebase e Arduino/ESP
- <br/> :books: &nbsp; Atualmente estudando: Python:snake:
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos usando Angular/Ionic e Java/Spring
+<br/> :blush: &nbsp; Posso te ajudar com Ionic, Angular, Typescript/Javascript, Java/Spring, Firebase e Arduino/ESP
+<br/> :books: &nbsp; Atualmente estudando: Python:snake:
 
 <p>
   :email: &nbsp; Entre em contato comigo:

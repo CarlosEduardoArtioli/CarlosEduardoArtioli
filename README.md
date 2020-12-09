@@ -26,7 +26,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&layout=compact&show_icons=true&theme=algolia" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=algolia" /></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=algolia" /></td>
     </tr>   
   </table>
 </center>  

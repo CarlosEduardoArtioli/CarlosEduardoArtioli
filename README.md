@@ -19,13 +19,16 @@
   <a href="https://www.linkedin.com/in/carlos-eduardo-artioli/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 </p>
+
 ---
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&layout=compact&show_icons=true&theme=algolia" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=algolia" /></td>
     </tr>   
   </table>
 </center>  
+
+---

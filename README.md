@@ -25,8 +25,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&layout=compact&show_icons=true&theme=algolia" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=algolia" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoArtioli&layout=compact&show_icons=true&theme=algolia" /></td>
+        <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoArtioli&show_icons=true&theme=algolia" /></td>
     </tr>   
   </table>
 </center>  

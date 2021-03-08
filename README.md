@@ -9,7 +9,7 @@
 
 :heart: &nbsp; Buscando colaborar com projetos usando: Angular + PrimeNG ou Ionic e Spring
 <br/> :blush: &nbsp; Posso te ajudar com: Angular, Javascript/Typescript, Spring, Firebase e Arduino/ESP
-<br/> :books: &nbsp; Atualmente estudando: Python:snake:
+<br/> :books: &nbsp; Atualmente estudando: Python:snake: e Java
 
 <p>
   :email: &nbsp; Entre em contato comigo:

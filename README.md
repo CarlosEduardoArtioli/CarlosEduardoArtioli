@@ -4,12 +4,12 @@
 # Carlos Eduardo Artioli
 
 ## Olá pessoal 👋
-:computer: &nbsp; Sou apaixonado por informática e aprender novas coisas.
+:computer: &nbsp; Sou apaixonado por tecnologia e aprender novas coisas.
 <br/>:man_technologist: &nbsp; **Técnico em Informática**
 
-:heart: &nbsp; Buscando colaborar com projetos usando: Angular + PrimeNG ou Ionic e Spring
-<br/> :blush: &nbsp; Posso te ajudar com: Angular, Javascript/Typescript, Spring, Firebase e Arduino/ESP
-<br/> :books: &nbsp; Atualmente estudando: Python:snake: e Java
+:heart: &nbsp; Buscando colaborar com projetos usando: Angular (Ionic ou PrimeNG), Vue.Js e Spring
+<br/> :blush: &nbsp; Posso te ajudar com: Angular, Vue.Js, Spring, Firebase e Arduino/ESP
+<br/> :books: &nbsp; Atualmente estudando: Java e JavaScript
 
 <p>
   :email: &nbsp; Entre em contato comigo:

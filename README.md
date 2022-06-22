@@ -5,7 +5,7 @@
 <br/>:man_technologist: &nbsp; **Desenvolvedor Java**
 
 :heart: &nbsp; Buscando colaborar com projetos usando: Angular (Ionic ou PrimeNG) e Java (Spring ou Quarkus)
-<br/> :blush: &nbsp; Posso te ajudar com: Angular, Vue.Js, Spring, Firebase, Arduino/ESP, Java
+<br/> :blush: &nbsp; Posso te ajudar com: Angular ou Vue.Js, Firebase, Arduino/ESP, Java (Spring ou Quarkus)
 <br/> :books: &nbsp; Atualmente estudando: Java e DevOps
 
 <div>
